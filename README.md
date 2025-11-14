@@ -1,5 +1,3 @@
-# pricing_scenario_analysis
-
 # Dynamic Discounting Scenario Modeling - Power BI | Advanced DAX | Business Impact Analysis
 
 ## Overview
